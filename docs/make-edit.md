@@ -1,12 +1,11 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+id: doc2
+title: Contributing to the docs
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/). In order to make changes you'll need access to the repository with privileges in order to contribute.
 
-## Markdown Syntax
+## Navigating the Documentation
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
@@ -47,7 +46,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅ ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅ ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅ ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅ ⋅⋅⋅(This is contrary to the typical GFM line break behavior, where trailing spaces are not required.)
 
 - Unordered list can use asterisks
 
