@@ -114,7 +114,7 @@ The goal of documenting TK is the create a library of tips, tricks, and tools ot
 
 PK or Pedagogical knowledge represents a knowledge of pedagogy, or the practice of teaching. In practice PK is about knowing tools and models that make the teaching of material more effective for students. This can be something as simple as having students repeat that same word three times or a lot more complex methodologies that span over the length of the classroom.
 
-Working examples can be found [here](../TK)
+Working examples can be found [here]
 
 ---
 
