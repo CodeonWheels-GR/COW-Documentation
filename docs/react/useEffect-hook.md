@@ -3,7 +3,7 @@ id: doc7
 title: UseEffect Hook
 ---
 
-The useEffect hook is used to run a "side effect" or function whenever the developer decides. There are three ways to decide when a useEffect will run its side effect.
+The useEffect hook is used to run a "side effect" or function whenever the developer decides.
 
 ## How to Use a UseEffect Hook
 
