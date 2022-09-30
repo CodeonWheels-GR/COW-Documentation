@@ -33,7 +33,7 @@ module.exports = {
     {
       type: 'category',
       label: 'React',
-      items: ['react/doc1', 'react/doc2', 'react/doc3', 'react/doc4', 'react/doc5', 'react/doc6', 'react/doc7', 'react/doc8'],
+      items: ['react/doc1', 'react/doc2', 'react/doc3', 'react/doc4', 'react/doc5', 'react/doc6', 'react/doc7', 'react/doc8', 'react/doc9', 'react/doc10', 'react/doc11'],
     },
     {
       type: 'category',
