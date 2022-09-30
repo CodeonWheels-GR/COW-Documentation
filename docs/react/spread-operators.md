@@ -11,7 +11,7 @@ const array3 = [ ...array1, ...array2 ]
 
 console.log(array3)
 ```
-In this example, everything in `array1` and `array2` is copied over into a new array called `array3`. The contents of `array3` are then displayed to the console.
+In this example, everything in `array1` and `array2` is copied over into a new array called `array3`. The contents of `array3` are then displayed to the console `[0, 1, 2, 3, 4, 5, 6, 7]`.
 
 
 ```
