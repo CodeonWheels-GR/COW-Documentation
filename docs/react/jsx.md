@@ -60,3 +60,14 @@ With JSX, one self closing tag can be used instead of needing an opening and clo
 ```
 <br />
 ```
+
+## ClassName Attribute
+With JS, it is common to apply a CSS style like this.
+```
+<h1 class="nameOfClass">Text</h1>
+```
+
+With JSX the attribute `className` is used instead of the attribute `class`.
+```
+<h1 className="nameOfClass">Text</h1>
+```
