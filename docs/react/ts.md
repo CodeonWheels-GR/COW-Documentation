@@ -2,7 +2,6 @@
 id: doc12
 title: TypeScript (TS)
 ---
-
 TypeScript is a programming language that shares the same general syntax of JavaScript, TypeScript adds additional syntax called for types. As mentioned, TypeScript has the same syntax as JavaScript for the most part. The important difference is that in TypeScript the type of each variable is defined. Once the variable's type is defined you cannot assign a value of another type to that variable. The three basic types in TypeScript are `boolean`, `number`, and `string`. Booleans are true or false, numbers can be whole or floating point integers, and finally strings are for text.
 
 Below is an example of how to use TypeScript:
@@ -44,7 +43,6 @@ const person: { name: string, eyeColor: string, over18: boolean } = {
     name: "Bill".
     eyeColor: "Blue",
     over18: true
-
 }
 ```
 This code works in TypeScript. The property `name` is explicitly stated as the type string and is assigned the string `Bill`, the property `eyeColor` is explicitly stated as the type string and is assigned the string "Blue", lastly the property `over18` is explicitly stated as the type `boolean` and is assigned the value `true` which is a boolean.
