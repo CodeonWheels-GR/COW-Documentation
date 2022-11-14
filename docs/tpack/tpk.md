@@ -1,13 +1,14 @@
 ---
-id: doc5
+sidebar_position: 5
 title: TPK
+id: tpk
 ---
 
 ## What is TPK
 
 In simple terms TPK is knowing how technology effects the way the subject matter can be taught as well how the subject matter can effect the technologies that can be used.
 
-For example, consider two different versions of a program that accomplish the same task. In this case we'll compare and contrast Google Docs and Microsoft word as they serve the same purpose but bring an entirely different experience when used in the classroom. While they share the same underlying tool sets Google docs provides a more intuitive system for the sharing of content which could lead to the building of lessons that focus on collaboration using the platform. 
+For example, consider two different versions of a program that accomplish the same task. In this case we'll compare and contrast Google Docs and Microsoft word as they serve the same purpose but bring an entirely different experience when used in the classroom. While they share the same underlying tool sets Google docs provides a more intuitive system for the sharing of content which could lead to the building of lessons that focus on collaboration using the platform.
 
 Alternatively in the case of the subject matter effecting the technology consider the difference between language that can be programmed and compiled using web based tooling in contrast to a language that needs to be compiled on a local machine. Though certain aspects of the latter can be replicated online the full benefits of the local machine can be lost due to the limitation of things such as the browser. Meaning the subject matter may limit the classroom to independent local environments for programming instead of feature filled online IDE's that may provide useful tooling to students.
 

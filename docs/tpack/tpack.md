@@ -1,6 +1,7 @@
 ---
-id: doc6
+sidebar_position: 6
 title: TPACK
+id: tpack
 ---
 
 ## The full picture
@@ -29,7 +30,7 @@ First comes the simple process of reviewing notes and providing how you generall
 
 Based on Objectives that are set at the begging of the class we can measure just how many of those metrics were met in order to quantify success in a fashion that is important but not integral to the success of a program.
 
-#### Assessing TPACK 
+#### Assessing TPACK
 
 When it comes to assessing the performance of TPACK this can be accomplished by assessing portions of the material that didn't perform as expected and identifying which of the sources that issue was drawn from. Be it PK, CK, TK or any of the combinations.
 

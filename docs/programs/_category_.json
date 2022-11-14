@@ -1,0 +1,8 @@
+{
+	"label": "Programs",
+	"position": 2,
+	"link": {
+		"type": "generated-index",
+		"description": "Take a deep dive into the documentation that drives our custom-tailored programs."
+	}
+}

@@ -1,6 +1,7 @@
 ---
-id: doc3
+sidebar_position: 3
 title: PCK
+id: pck
 ---
 
 ## What is PCK
@@ -26,7 +27,7 @@ In the same way that age and grade effect the degree of material that can be tau
 In the synthesis of PK and CK, PK brings a way to teach materials in a manner that is impactful to students. While CK contributes the fundamentals that students should be learning for the subject matter.
 Combined they benefit in influencing each other by raising the question of what methods are actually the most effective for teaching certain subject matters. To best illustrate this, consider the laissez faire approach to a large collection of technical documentation on the web. Unless you've found specific material on how to build a specific project you are most likely digging through documentation and maybe even stack overflow to learn new materials. Though this may encourage the autonomous learning we seek in our students it simply is a barrier for entry and pushes many individuals away from the subject matter.
 
-Ultimately with the synthesis of PK and CK the goal is to find a method to teach the fundamentals and jargon of a concept in a manner that is quick, effective, and a lot friendlier for the classroom context. 
+Ultimately with the synthesis of PK and CK the goal is to find a method to teach the fundamentals and jargon of a concept in a manner that is quick, effective, and a lot friendlier for the classroom context.
 
 ---
 
@@ -39,5 +40,7 @@ As part of the context, identifying objectives can aid in identifying purpose fo
 Section under construction
 
 :::
+
+---
 
 ---

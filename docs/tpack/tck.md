@@ -1,6 +1,7 @@
 ---
-id: doc4
+sidebar_position: 4
 title: TCK
+id: tck
 ---
 
 ## What is TCK
@@ -32,5 +33,7 @@ A great tool for identifying if using technology to teach material is beneficial
 :::caution
 
 Section under construction
+
+:::
 
 :::
