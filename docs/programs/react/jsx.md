@@ -3,6 +3,8 @@ id: doc8
 title: JavaScript XML (JSX)
 ---
 
+*** React router image https://res.cloudinary.com/practicaldev/image/fetch/s--vtI2NHvd--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0lj87mz6whntv2zbxdm.png ***
+
 JavaScript XML or JSX for short, is a syntax extension to the traditional JavaScript language. JSX allows the developer to use HTML tags within their JavaScript.
 
 ## Basic JSX Example
