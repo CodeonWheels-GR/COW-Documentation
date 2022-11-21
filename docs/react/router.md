@@ -3,6 +3,8 @@ id: doc13
 title: React Router
 ---
 
+*** React router image https://res.cloudinary.com/practicaldev/image/fetch/s--vtI2NHvd--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0lj87mz6whntv2zbxdm.png ***
+
 The React router is how a developer can navigate in between individual pages. First the command `npm i -D react-router-dom` must be run to allow the use of the React router.
 
 Imagine now our project has a folder called pages with the following files within it:

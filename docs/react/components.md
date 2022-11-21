@@ -3,6 +3,8 @@ id: doc2
 title: What Are Components?
 ---
 
+**** Image of a breakdown of components similar to. https://www.techdiagonal.com/wp-content/uploads/2019/08/React-components-blog-image.jpg ****
+
 Components at their core are just functions. They are reusable pieces of code that represent a part of an overall user interface.
 
 ## Issue With Building a Non-Component Based Site

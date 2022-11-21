@@ -3,6 +3,8 @@ id: doc5
 title: React Hooks
 ---
 
+*** react hook image https://tsh.io/wp-content/uploads/2020/10/react-hooks-best-practices-lead_.jpg ***
+
 React hooks are  very powerful tool that was added for developers as of React version 16.8. React hooks help developers move further away from class based development by allowing for the changing of state as well as other features without the need to write a class.
 
 ## Examples of Hooks

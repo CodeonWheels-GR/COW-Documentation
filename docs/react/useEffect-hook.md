@@ -3,6 +3,8 @@ id: doc7
 title: UseEffect Hook
 ---
 
+*** use effect hook image https://daveceddia.com/images/useEffect-hook-twitter.png ***
+
 The useEffect hook is used to run a "side effect" or function whenever the developer decides.
 
 ## How to Use a UseEffect Hook

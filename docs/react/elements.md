@@ -3,6 +3,8 @@ id: doc14
 title: Elements
 ---
 
+*** image breaking down components & elements https://miro.medium.com/max/1024/1*rXrpYfSaJClrlNFaThFJrg.png ***
+
 An element is the smallest unit that a developer can use to describe to the React DOM what they want to be rendered on the screen. Elements are used to create more units of code called components. Here is an example of an element:
 
 ```
