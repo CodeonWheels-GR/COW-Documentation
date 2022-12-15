@@ -2,7 +2,10 @@
 id: doc12
 title: TypeScript (TS)
 ---
-TypeScript is a programming language that shares the same general syntax of JavaScript, TypeScript adds additional syntax called for types. As mentioned, TypeScript has the same syntax as JavaScript for the most part. The important difference is that in TypeScript the type of each variable is defined. Once the variable's type is defined you cannot assign a value of another type to that variable. The three basic types in TypeScript are `boolean`, `number`, and `string`. Booleans are true or false, numbers can be whole or floating point integers, and finally strings are for text.
+
+*** TS logo image https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png ***
+
+TypeScript is a strongly typed programming language that shares the same general syntax of JavaScript, TypeScript adds additional syntax called types. As mentioned, TypeScript has the same syntax as JavaScript for the most part. Two important difference between Typescript and Javascript are that Typescript is a strongly typed, compiled language, whereas Javascript is a dynamically typed, interpreted langauge. This means that with Typecsript errors are found before execution. Additionally, once the variable's type is defined you cannot assign a value of another type to that variable. The three basic types in TypeScript are `boolean`, `number`, and `string`. Booleans are true or false, numbers can be whole or floating point integers, and finally strings are for text.
 
 Below is an example of how to use TypeScript:
 ```
@@ -57,6 +60,45 @@ function addOne(input: number) {
 }
 ```
 The property `input` and the variable `newNumber` are expecting a value of to be input of the type number. If value input is any type other than a number the code will return an error.
+
+### Interfaces
+Typescript interfaces are used to describe the shape of an object. In simpler terms, interfaces are a way to define the props that must be present within objects for them to work. This is similar to the overall idea of assigning types in Typescript. Below is an example of using an interface in Typescript:
+
+```
+interface IsCat {
+    name: string;
+    age: number;
+    isCute: boolean;
+}
+
+const MrWinkles: IsCat = {
+    name: 'Perrywinkle',
+    age: 7,
+    isCute: true
+}
+```
+
+Above we declare an interface named `IsCat`. Below the interface declaration we decalre a constant named `MrWinkles` and assign it to the type IsCat. The constant MrWinkles now MUST contain the variable `name`, `age`, and `isCute`. If it does not contain all of those pre-defined variables or includes more than what we previously defined, then the compiler will throw us an error.
+
+Interfaces also work with functions in Typescript. Here is an example using the precious `IsCat` interface on how to pre-define the props that a function will take:
+
+```
+interface IsCatProps {
+    name: string;
+    age: number;
+    isCute: boolean;
+}
+
+function IsCatFunction({name, age, isCute}: IsCatProps) {
+    if (isCute === true) {
+        console.log('My cat ' + name + ' is ' + age + ' years old!' )
+    }
+} 
+```
+
+Similarly to the previous example, the `IsCatFunction` will not work unless all of the pre-defined variables in the `IsCatProps` interface are passed as props to the function.
+
+
 
 
 
