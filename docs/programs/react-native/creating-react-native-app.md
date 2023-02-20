@@ -1,6 +1,6 @@
 ---
-id: doc2
-title: Creating a React Natice App
+id: doc1
+title: How To Create a React Native Application
 ---
 
 The quickest way to create a React Native application is using Expo Go. Follow the steps below to get your React Native application up and going fast!
