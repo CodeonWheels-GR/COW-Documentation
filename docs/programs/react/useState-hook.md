@@ -3,8 +3,6 @@ id: doc6
 title: UseState Hook
 ---
 
-*** use state hook image https://daveceddia.com/images/useState-hook-twitter.png ***
-
 The useState hook is the most commonly used React hook in a developers toolbox. This hook allows you to modify state within a functional component.
 
 ## How to Use a UseState Hook
