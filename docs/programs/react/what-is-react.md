@@ -3,6 +3,8 @@ id: doc1
 title: What Is React?
 ---
 
+*** React JS image https://www.datocms-assets.com/45470/1631110818-logo-react-js.png ***
+
 React is a Javscript library developed by facebook used for building out front end user interfaces
 
 ## History of React

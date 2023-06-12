@@ -30,4 +30,3 @@ Regardless of if a stylesheet is created or in line styling is performed the imp
 
 ## Style Type Validation
 Notice in the above example that `TextStyle` is added at the end of the constant name. This is necessary when creating stylesheets as it helps to validate what the style will be used on. The three style types that you will most commonly run into are `TextStyle`, `ImageStyle`, and `ViewStyle`. TextStyle is for when you want to style text, ImageStyle is for when you want to style images, and lastly ViewStyle is for when styling `<view>` tags.
-

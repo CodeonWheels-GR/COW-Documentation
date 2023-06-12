@@ -46,3 +46,5 @@ Now all you would need to do is call the InputForm component whenever you want i
 ```
 
 The form will render below the heading text the same as it would if you typed the code out in its entirety!
+
+**** Image of a breakdown of components similar to. https://www.techdiagonal.com/wp-content/uploads/2019/08/React-components-blog-image.jpg ****

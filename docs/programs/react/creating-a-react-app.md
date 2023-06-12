@@ -3,6 +3,8 @@ id: doc4
 title: How To Create a React Application?
 ---
 
+*** Image of react logo ***
+
 1) Open the terminal<br/>
 2) Navigate to the directory that you wish to create your react application within. In our example it will be the desktop.
 ```

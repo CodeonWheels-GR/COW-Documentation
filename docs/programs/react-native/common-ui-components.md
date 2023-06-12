@@ -24,4 +24,3 @@ The `<TextInput>` component is comparable to the `<Input>` tag in React JS. A de
 ## Image Component
 
 The `<Image>` component is used to render images to the screen so it comes as no surprise that this component is idential to an `<img>` tag in React JS.
-

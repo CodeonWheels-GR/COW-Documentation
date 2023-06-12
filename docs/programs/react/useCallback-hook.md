@@ -119,4 +119,3 @@ Now if you change the number within the input field the text will be logged as a
 
 
 
-

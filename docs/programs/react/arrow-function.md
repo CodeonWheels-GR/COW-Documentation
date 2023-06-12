@@ -29,3 +29,5 @@ It is not even necessary to declare a function name. Arrow functions can be used
 ```
 
 When the button is clicked, `success` will be printed to the console log. The function is created and passed to the onClick method all without the need to create a function outside of the button tag. This saves lots of time and results in way cleaner code.
+
+*** Arrow function cheat sheet image https://res.cloudinary.com/practicaldev/image/fetch/s--vlqQ-UWU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/rhg7nntibsuufeibmt4u.png ***

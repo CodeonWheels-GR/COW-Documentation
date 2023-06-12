@@ -30,4 +30,3 @@ cd exampleName
 
 After you do this the app will automatically install itself on your phone and you can begin developing!
 
-
