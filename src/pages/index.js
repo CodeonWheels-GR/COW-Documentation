@@ -32,7 +32,7 @@ export default function Home() {
 	return (
 		<Layout
 			title={`Hello from ${siteConfig.title}`}
-			description="Description will go into a meta tag in <head />"
+			description="Resources for our educators, students, and families."
 		>
 			<HomepageHeader />
 			<main>
