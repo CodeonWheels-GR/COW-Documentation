@@ -1,7 +1,7 @@
 ---
 id: looping-animations
 title: Looping Animations
-sidebar_position: 19
+sidebar_position: 13
 ---
 
 # Looping Animations
@@ -24,6 +24,6 @@ Looping animations are particularly useful for creating repetitive motions, such
 
 :::
 
-You can also control the playback of animations programmatically using events and actions in Gdevelop. For example, you can trigger an animation to start or stop based on certain conditions or player input.
+You can also control the playback of animations programmatically using events and [actions](./actions/what-are-actions.md) in Gdevelop. For example, you can trigger an animation to start or stop based on certain [conditions](./conditions/what-are-conditions.md) or player input.
 
 By utilizing looping animations effectively, you can add dynamic and engaging visual effects to your games or interactive projects.

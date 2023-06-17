@@ -1,7 +1,7 @@
 ---
 id: pixel-art-editing
 title: Pixel Art Editing
-sidebar_position: 17
+sidebar_position: 11
 ---
 
 # Pixel Art Editing

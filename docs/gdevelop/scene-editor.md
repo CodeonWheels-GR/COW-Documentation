@@ -20,9 +20,9 @@ When you open the Scene Editor View, you'll see a canvas representing your scene
 
 ## Working with Objects
 
-In the Scene Editor View, you can add various types of objects to your scene, including sprites, tiled sprites, text, buttons, and more. Each object has its own properties and behaviors that you can customize to achieve the desired functionality.
+In the Scene Editor View, you can add various types of [objects](./objects/what-are-objects.md) to your scene, including [sprites](./objects/sprites.md), [tiled sprites](./objects/tiled-sprites.md), [text](./objects/text.md), [buttons](./objects/button.md), and more. Each object has its own [properties](./objects/object-properties.md) and [behaviors](./behaviors/object-behaviors.md) that you can customize to achieve the desired functionality.
 
-To add an object to the scene, simply drag it from the Object List onto the canvas. Once placed, you can use the mouse to resize and position the object as needed. Additionally, you can use the [Properties](./object-properties.md) panel to tweak the object's appearance, behavior, and other attributes.
+To add an object to the scene, simply drag it from the Object List onto the canvas. Once placed, you can use the mouse to resize and position the object as needed. Additionally, you can use the Properties panel to tweak the object's appearance, behavior, and other attributes.
 
 ## Configuring Scene Properties
 

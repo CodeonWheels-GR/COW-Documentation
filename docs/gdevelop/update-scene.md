@@ -1,7 +1,7 @@
 ---
 id: update-scene
 title: Update Scene
-sidebar_position: 39
+sidebar_position: 8
 ---
 
 # Update Scene
@@ -10,7 +10,7 @@ In Gdevelop, updating a scene allows you to change its properties or behaviors d
 
 To update a scene, you can use events and actions in the Events Editor. Here's how you can do it:
 
-1. Open the Events Editor for the scene you want to update.
+1. Open the [Events Editor](./events-editor-view.md) for the scene you want to update.
 
 2. Create a new event or choose an existing event that triggers the scene update. This can be based on conditions such as a key press, collision, or a specific game event.
 

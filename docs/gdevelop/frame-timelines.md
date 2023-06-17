@@ -1,7 +1,7 @@
 ---
 id: frame-timelines
 title: Frame Timelines
-sidebar_position: 18
+sidebar_position: 12
 ---
 
 # Frame Timelines
@@ -12,7 +12,7 @@ In Gdevelop, frame timelines are used to create animations for objects. Animatio
 
 To add a frame timeline to an object, follow these steps:
 
-1. Select the object in the Scene Editor.
+1. Select the object in the [Scene Editor](./scene-editor.md).
 2. In the Object Properties panel, locate the "Animations" section.
 3. Click on the "+" button to add a new animation.
 4. Give the animation a name to identify it.
@@ -33,7 +33,7 @@ Once you've added a frame timeline, you can edit its properties and frames:
 
 To play an animation in your game, you can use events to trigger the animation:
 
-1. Open the Events Editor.
+1. Open the [Events Editor](./events-editor-view.md).
 2. Create an event that triggers the animation.
 3. Use the appropriate action to play the animation on the desired object.
 4. Specify the name of the animation to play.

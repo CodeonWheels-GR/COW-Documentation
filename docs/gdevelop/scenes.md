@@ -1,7 +1,7 @@
 ---
 id: scenes
 title: Scenes
-sidebar_position: 28
+sidebar_position: 7
 ---
 
 # Scenes
@@ -29,7 +29,7 @@ In the Scene Editor view, you'll find various tools and options that allow you t
 
 ## Switching Between Scenes
 
-During gameplay, you'll often need to switch between different scenes. This can be done using events or [actions](./actions.md) in GDevelop. For example, you can use an event to transition from the main menu scene to the gameplay scene when the player clicks the "Play" button.
+During gameplay, you'll often need to switch between different scenes. This can be done using events or [actions](./actions/what-are-actions.md) in GDevelop. For example, you can use an event to transition from the main menu scene to the gameplay scene when the player clicks the "Play" button.
 
 To switch between scenes, you can use the "Change the scene" action in GDevelop. This action allows you to specify the target scene and define additional options such as whether to load the scene immediately or after a delay.
 

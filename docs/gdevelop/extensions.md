@@ -1,7 +1,7 @@
 ---
 id: extensions
 title: Extensions
-sidebar_position: 29
+sidebar_position: 15
 ---
 
 # Extensions
@@ -14,7 +14,7 @@ Using extensions, you can add specialized behaviors, effects, actions, or condit
 
 To find and install extensions in GDevelop, follow these steps:
 
-1. Open GDevelop and navigate to the **Project Manager** menu.
+1. Open GDevelop and navigate to the [**Project Manager menu**](./introduction/project-manager-menu.md).
 2. Click on the **Extensions** tab.
 3. You'll see a list of available extensions categorized by different functionalities or categories.
 4. Browse through the extensions or use the search bar to find specific ones.
@@ -26,8 +26,8 @@ To find and install extensions in GDevelop, follow these steps:
 
 After installing an extension, you can use its features within your game objects. Here's how you can utilize extensions:
 
-1. Open your project in GDevelop and navigate to the **Events Editor** view.
-2. Select the object to which you want to add the extension.
+1. Open your project in GDevelop and navigate to the [**Events Editor view**](./events-editor-view.md).
+2. Select the [object](./objects/what-are-objects.md) to which you want to add the extension.
 3. Right-click on the object and choose **Add a behavior**, **Add an effect**, or **Add an action/condition** (depending on the type of extension).
 4. In the extension selection dialog, choose the installed extension from the list.
 5. Configure the parameters and settings specific to the extension.
@@ -42,5 +42,3 @@ You can also create your own extensions in GDevelop using JavaScript and share t
 :::
 
 By leveraging the power of extensions, you can easily incorporate advanced features into your game projects and enhance the overall gameplay experience.
-
-Next, let's explore the **Events Editor View** to learn how to create game logic and interactions using events.

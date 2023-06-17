@@ -1,7 +1,7 @@
 ---
 id: sprite-editing
 title: Sprite Editing
-sidebar_position: 16
+sidebar_position: 10
 ---
 
 # Sprite Editing
