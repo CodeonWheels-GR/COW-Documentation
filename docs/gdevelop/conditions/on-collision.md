@@ -1,7 +1,7 @@
 ---
 id: on-collision
 title: On Collision
-sidebar_position: 34
+sidebar_position: 4
 ---
 
 # On Collision

@@ -1,7 +1,7 @@
 ---
 id: on-key-press
 title: On Key press
-sidebar_position: 33
+sidebar_position: 3
 ---
 
 # On Key press

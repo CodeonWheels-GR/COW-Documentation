@@ -1,7 +1,7 @@
 ---
 id: at-beginning-of-scene
 title: At Beginning of Scene
-sidebar_position: 32
+sidebar_position: 2
 ---
 
 # At Beginning of Scene
